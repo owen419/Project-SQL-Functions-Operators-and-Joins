@@ -1,2 +1,2 @@
-# Project-SQL-Functions-Operators-and-Joins
+# Project-SQL
 SQL Queries
